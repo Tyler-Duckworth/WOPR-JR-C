@@ -1,5 +1,5 @@
 # WOPR-JR-C
-A C++ Version of WOPR-JR, the L&N STEMpunks Robot code for 2017.
+A C++ Version of [WOPR-JR](https://github.com/lnstempunks/WOPR-JR), the L&N STEMpunks Robot code for 2017.
 
 Using WPILib and Kauai Labs for sources.
 
